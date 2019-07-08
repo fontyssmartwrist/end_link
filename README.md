@@ -1,25 +1,26 @@
-These ROS nodes are used for controlling and monotoring the end link.
+# These ROS nodes are used for controlling and monotoring the end link.
 
-Install guide
+## Install guide
 
-Downloads ROS Packages
+### Downloads ROS Packages
 
-Main packages
+**Main packages** 
 
 $ git clone https://github.com/ROBOTIS-GIT/dynamixel-workbench.git
 
 $ git clone https://github.com/ROBOTIS-GIT/dynamixel-workbench-msgs.git
 
-
-Dependent packages
+**Dependent packages**
 
 $ git clone https://github.com/ROBOTIS-GIT/DynamixelSDK.git
 
-Clone these to your catkin's workspace src folder
+Clone these to your catkin's workspace src folder.
 
-Run catkin_make to build
+Run catkin_make to build.
 
-Documentation on how it works can be found in the wiki.
+**Documentation on how it works can be found in the wiki.**
 
-Author:
+## Author
+
 Juul Wolters
+ 

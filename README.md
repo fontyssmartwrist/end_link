@@ -1,4 +1,3 @@
-MoveIt! commander ROS node
 These ROS nodes are used for controlling and monotoring the end link.
 
 Install guide
@@ -22,5 +21,5 @@ Run catkin_make to build
 
 Documentation on how it works can be found in the wiki.
 
-Author
+Author:
 Juul Wolters

@@ -20,8 +20,7 @@ Clone these to your catkin's workspace src folder
 
 Run catkin_make to build
 
-Documentation
 Documentation on how it works can be found in the wiki.
 
-Authors
+Author
 Juul Wolters
